@@ -1,0 +1,34 @@
+h1 {
+    color: #CC876C;
+    margin: 10px;
+}
+
+.calc {
+    background: linear-gradient(to right, red, blue);
+    height: 322px;
+    width: 14vw;
+    margin: 10px;
+    padding: 10px;
+    
+    
+}
+
+
+.botao {
+
+    width: 60px;
+    height: 60px;
+    background: #384499;
+    color: #FFEDE0;
+    border-radius: 9px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#visor {
+    color: blue;
+    width: 232px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+}
